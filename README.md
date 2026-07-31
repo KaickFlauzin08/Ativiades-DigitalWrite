@@ -13,7 +13,6 @@ O sistema utiliza saídas digitais (`digitalWrite`) para alternar dois grupos de
 - [Mapeamento dos Pinos](#-mapeamento-dos-pinos-pinout)
 - [Como Funciona](#-como-funciona)
 - [Código Fonte](#-código-fonte)
-- [Como Executar](#-como-executar)
 - [Autor](#-autor)
 
 ---
