@@ -19,7 +19,7 @@ void loop() {
   
   digitalWrite(PINLED1, HIGH);
   Serial.println("LED VERMELHO ACENDEU");
-  delay(1000);
+  delay(3000);
   digitalWrite(PINLED1, LOW);
   Serial.println("LED VERMELHO APAGOU");
   delay(1000);
@@ -33,7 +33,7 @@ void loop() {
 
   digitalWrite(PINLED3, HIGH);
   Serial.println("LED VERDE ACENDEU");
-  delay(1000);
+  delay(2000);
   digitalWrite(PINLED3, LOW);
   Serial.println("LED VERDE APAGOU");
   delay(1000);
